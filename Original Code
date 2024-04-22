@@ -1,4 +1,4 @@
-"""budget_tangency"""
+"""budget_tangency: budget_tangency.py"""
 import matplotlib.pyplot as plt
 import sympy as sp
 import numpy as np
